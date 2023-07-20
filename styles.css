@@ -1,0 +1,70 @@
+.post-header {
+    width: 300px;
+    display: flex;
+    margin-top: 10px;
+
+}
+
+
+.icons {
+    display: flex;
+
+}
+
+.Save {
+    position: absolute;
+    right: 34%;
+    font-size: xx-large;
+}
+
+.post {
+    border: 3px solid white;
+    background-color: white;
+    margin: 100px 100px 200px 100px;
+    }
+
+body {
+    background-color: rgb(28, 27, 27);
+
+}
+
+.imagen img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.fa-comment {
+    padding: 5px;
+    font-size: xx-large;
+}
+
+.fa-heart {
+    padding: 5px;
+    font-size: xx-large;
+}
+
+.fa-paper-plane {
+    padding: 5px;
+    font-size: xx-large;
+}
+
+.Menu {
+    position: absolute;
+    right: 34%;
+    font-size: xx-large;
+}
+
+.paragraph {
+    margin-bottom: 30px;
+    font-size: larger;
+}
+
+.container {
+    background-color: black;
+    display: flex;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 400px;
+    margin-left: 400px;
+
+}
